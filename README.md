@@ -16,18 +16,6 @@
   </a>
 </p>
 
-## 💬 Social
-
-<p align="center">
-  <a href="mailto:denisusupov228@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://t.me/DenisIusupov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <!-- Add other social networks if desired -->
-</p>
-
 ## 🛠️ Skills
 
 ### 📋 Programming Languages
